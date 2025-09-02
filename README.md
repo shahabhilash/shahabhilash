@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a Computer Science student with a passion for building clean and functional web applications. I'm always looking for opportunities to learn, collaborate, and contribute to exciting projects.
 
 <!--
 **shahabhilash/shahabhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
