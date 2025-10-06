@@ -39,7 +39,6 @@ I'm a Computer Science student with a passion for building clean and functional 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
 </p>
-
 ---
 <!--
 **shahabhilash/shahabhilash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
