@@ -85,8 +85,12 @@ I believe learning never ends — and neither does debugging 😅.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f1c2c,100:3a6073&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=20&fontAlignY=35&animation=fadeIn"/>
 </div>
-### My Open Source Contributions
-- Made my first open-source contribution to [First Contributions](https://github.com/firstcontributions/first-contributions) via a pull request.
+# Hi, I'm Abhilash Shah 👋
+
+## 🌱 My Open Source Contributions
+
+- First open-source contribution: [First Contributions](https://github.com/firstcontributions/first-contributions)  
+  ![GitHub PRs](https://img.shields.io/badge/PRs-1-brightgreen?style=for-the-badge&logo=github)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
