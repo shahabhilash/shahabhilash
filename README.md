@@ -1,22 +1,91 @@
-## Hi there 👋
-I'm a Computer Science student with a passion for building clean and functional web applications. I'm always looking for opportunities to learn, collaborate, and contribute to exciting projects.
+# 👋 Hey there, I'm Abhilash Shah!
+<img src="https://komarev.com/ghpvc/?username=abhilashshah&color=blue&style=for-the-badge" alt="Profile Views Counter">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23F7B500&vCenter=true&lines=Turning+ideas+into+interactive+web+experiences;Crafting+code+that+feels+alive;Always+learning%2C+always+building;Breaking+things+to+understand+them+better)](https://git.io/typing-svg)
+
+I’m a passionate developer who enjoys blending logic and creativity through code.  
+I love building **clean, functional, and visually appealing** web apps — because every great experience starts with great design and performance.  
+
+When I’m not writing code, you’ll find me exploring how servers talk, how UIs breathe, and how every bug hides a lesson 👨‍💻.  
+I believe learning never ends — and neither does debugging 😅.  
+
+---
+
+## 🧠 About Me
+
+- 🌱 Currently growing my skills in **Full-Stack Web Development**
+- 💻 Strong in **HTML**, **CSS**, **JavaScript**, **Node.js**, **C++**, **C#**, and **Python**
+- 🧩 Enjoy creating dynamic user interfaces and exploring backend workflows
+- 🧠 Constantly improving problem-solving and system design skills
+- 🔍 Interested in learning more about **APIs**, **Databases**, and **Cloud Deployments**
+- 🤝 Open to collaborations and real-world project building
 
 ---
 
+## 🛠️ Languages & Tools
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhilash-shah-a46613369/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhilashshah2006@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahabhilash&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahabhilash&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhilash&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Programming Languages
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahabhilash&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### Tools & Technologies
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <!-- <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+  </a> -->
+</p>
+
+---
+
+## 🌟 My Vision
+
+> “I believe the best projects come from curiosity — not perfection.  
+> Every line of code teaches me something new, and that’s what keeps me building.”  
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f1c2c,100:3a6073&text=Thanks%20for%20stopping%20by!&fontColor=ffffff&fontSize=20&fontAlignY=35&animation=fadeIn"/>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
