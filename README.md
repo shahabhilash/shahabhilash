@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=header&text=Abhilash%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=shahabhilash&color=00c6ff&style=flat&label=VIEWS" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=abhilashshah&color=00c6ff&style=flat&label=VIEWS" alt="Profile Views Counter">
   <br><br>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300c6ff&size=20&vCenter=true&center=true&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Crafting+code+that+feels+alive;Breaking+things+to+understand+them)](https://git.io/typing-svg)
