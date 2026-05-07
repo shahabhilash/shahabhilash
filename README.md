@@ -98,8 +98,6 @@ I believe learning never ends — and neither does debugging 😅.
 
 ## 🌱 My Open Source Contributions
 
-- First open-source contribution: [First Contributions](https://github.com/firstcontributions/first-contributions)  
-  ![GitHub PRs](https://img.shields.io/badge/PRs-1-brightgreen?style=for-the-badge&logo=github)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
