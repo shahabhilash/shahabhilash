@@ -1,65 +1,71 @@
-# < Abhilash Shah />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=150&section=header&text=Abhilash%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=abhilashshah&color=00FF00&style=for-the-badge&label=VIEWS" alt="Profile Views Counter">
+  <br><br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF00&size=20&vCenter=true&center=true&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Crafting+code+that+feels+alive;Breaking+things+to+understand+them)](https://git.io/typing-svg)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=abhilashshah&color=00FF00&style=for-the-badge&label=VIEWS" alt="Profile Views Counter">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300FF00&size=20&vCenter=true&lines=Turning+ideas+into+interactive+web+experiences;Crafting+code+that+feels+alive;Always+learning%2C+always+building;Breaking+things+to+understand+them+better)](https://git.io/typing-svg)
+<div align="center">
+  <h3>🛠️ Tech Stack & Arsenal</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🔥 GitHub Statistics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhilashshah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhilashshah&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashshah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%">
+</div>
+
+<br>
+
+### 👾 The Daily Routine
 
 ```javascript
-/**
- * @developer Abhilash Shah
- * @role MERN Stack Developer
- * @description Blending logic and creativity through code.
- * Building clean, functional, and visually appealing web apps.
- */
+const abhilash = new MERNStackDeveloper();
 
-const abhilash = {
-  stack: ["MongoDB", "Express", "React", "Node.js"],
-  skills: {
-    languages: ["HTML", "CSS", "JavaScript", "C++", "C#", "Python"],
-    frameworks: ["React", "Express.js", "Node.js", "Redux", "TailwindCSS"],
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Unity", "Git", "GitHub", "VS Code"],
-    learning: ["APIs", "Databases", "Cloud Deployments", "Next.js"]
-  },
-  aboutMe: [
-    "Currently building robust web apps with the MERN stack",
-    "Enjoy creating dynamic UIs and exploring backend workflows",
-    "Constantly improving problem-solving and system design skills",
-    "Open to collaborations and real-world project building"
-  ],
-  dailyRoutine: () => {
-    while (alive) {
-      writeCode();
-      if (coffee.isEmpty()) {
-        panic();
-        coffee.refill();
-      }
-      // sleep(); // commented out due to deadlines
+function dailyRoutine() {
+  while (alive) {
+    abhilash.code();
+    
+    if (abhilash.coffee.isEmpty()) {
+      abhilash.panic();
+      abhilash.coffee.refill();
     }
-  },
-  vision: "I believe the best projects come from curiosity — not perfection. Every line of code teaches me something new."
-};
+    
+    // sleep() temporarily removed for production deployment
+  }
+}
 ```
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="30" height="30" style="margin-right: 10px;"/>
-</p>
-
-```bash
-# Thanks for stopping by!
-$ exit 0
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00FF00,100:000000&section=footer" width="100%"/>
+</div>
