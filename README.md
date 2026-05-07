@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=150&section=header&text=Abhilash%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=header&text=Abhilash%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=shahabhilash&color=FF0080&style=for-the-badge&label=VIEWS" alt="Profile Views Counter">
+  <img src="https://komarev.com/ghpvc/?username=shahabhilash&color=00c6ff&style=for-the-badge&label=VIEWS" alt="Profile Views Counter">
   <br><br>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF0080&size=20&vCenter=true&center=true&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Crafting+code+that+feels+alive;Breaking+things+to+understand+them)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300c6ff&size=20&vCenter=true&center=true&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Crafting+code+that+feels+alive;Breaking+things+to+understand+them)](https://git.io/typing-svg)
 </div>
 
 <br>
@@ -39,15 +39,19 @@
 
 <div align="center">
   <h3>🔥 GitHub Statistics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahabhilash&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahabhilash&theme=radical&hide_border=true" alt="GitHub Streak" width="48%">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=shahabhilash&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats">
+  <img src="https://streak-stats.demolab.com/?user=shahabhilash&theme=nightowl&hide_border=true" alt="GitHub Streak">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhilash&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhilash&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages">
 </div>
 
 <br>
 
-### 👾 The Daily Routine
+<div align="center">
+  <details>
+    <summary><b>👾 Click to see my Daily Routine</b></summary>
+    <br>
 
 ```javascript
 const abhilash = new MERNStackDeveloper();
@@ -66,6 +70,11 @@ function dailyRoutine() {
 }
 ```
 
+  </details>
+</div>
+
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7928CA,100:FF0080&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0072ff,100:00c6ff&section=footer" width="100%"/>
 </div>
