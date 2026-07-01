@@ -42,7 +42,7 @@
 
 <div align="center">
   <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahabhilash&theme=radical" height="180em"/> </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahabhilash&theme=prussian" height="180em"/> </p>
   <h3>📫 Connect With Me</h3>
 
   <p>
