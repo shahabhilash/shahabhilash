@@ -69,6 +69,7 @@
 ---
 
 <div align="center">
+<<<<<<< HEAD
   <h3>📫 Let's Connect</h3>
   <p>Whether you have a project in mind, want to discuss software architecture, or just want to say hi, feel free to reach out!</p>
   <br>
@@ -81,6 +82,41 @@
   <a href="https://www.instagram.com/abhilash_._18?igsh=aWxzaXk1YTZkZWox">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+=======
+  <h3>🛠️ Tech Stack & Arsenal</h3>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+  </p>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,python" />
+  </p>
+
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,mysql" />
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahabhilash&theme=prussian" height="180em"/> </p>
+  <h3>📫 Connect With Me</h3>
+
+  <p>
+    <a href="mailto:abhilashshah2006@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+    <a href="https://linkedin.com/in/abhilash-shah-a46613369">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+    <a href="https://www.instagram.com/abhilash_._18?igsh=aWxzaXk1YTZkZWox">
+      <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+  </p>
+>>>>>>> ba9e2b0749503bde14c93ccc6ae212d580270965
 </div>
 
 <br>
@@ -96,5 +132,10 @@
 <br>
 
 <div align="center">
+<<<<<<< HEAD
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" width="100%" alt="Footer Banner" />
 </div>
+=======
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0072ff,100:00c6ff&section=footer" width="100%"/>
+</div>
+>>>>>>> ba9e2b0749503bde14c93ccc6ae212d580270965
