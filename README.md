@@ -71,13 +71,13 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shahabhilash&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&icon_color=0072ff&text_color=ffffff&border_color=0072ff&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahabhilash&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&icon_color=0072ff&text_color=ffffff&border_color=0072ff&count_private=true" height="180" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhilash&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&border_color=0072ff&langs_count=8" height="180" />
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=shahabhilash&theme=tokyonight&background=0d1117&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=ffffff&border=0072ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahabhilash&theme=tokyonight&background=0d1117&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=ffffff&border=0072ff" />
 </div>
 
 <br>
