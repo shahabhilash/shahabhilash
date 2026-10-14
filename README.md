@@ -69,5 +69,19 @@
 <br>
 
 <div align="center">
+  <h3>📊 GitHub Stats</h3>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=abhilashshah&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&icon_color=0072ff&text_color=ffffff&border_color=0072ff&count_private=true&include_all_commits=true" height="180" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhilashshah&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&border_color=0072ff&langs_count=8" height="180" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=abhilashshah&theme=tokyonight&background=0d1117&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=ffffff&border=0072ff" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0072ff,100:00c6ff&section=footer" width="100%"/>
 </div>
