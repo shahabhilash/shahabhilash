@@ -1,87 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=150&section=header&text=Abhilash%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
-  <br>
 
-  <img src="https://komarev.com/ghpvc/?username=shahabhilash&color=00c6ff&style=flat&label=VIEWS" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0072ff&height=140&text=Abhilash%20Shah&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Real-time%20Web%20Apps&descSize=16&descAlign=50&descAlignY=72" width="100%" />
 
-  <br><br>
+<img src="https://komarev.com/ghpvc/?username=shahabhilash&color=0072ff&style=flat&label=PROFILE+VIEWS" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300c6ff&size=20&center=true&vCenter=true&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;Crafting+code+that+feels+alive;Breaking+things+to+understand+them)](https://git.io/typing-svg)
 </div>
 
 <br>
 
-<div align="center">
-  <p>
-    Software developer turning ideas into products and late-night thoughts into code.  
-    Open source contributor who enjoys building, breaking, and rebuilding cool things  
-    while constantly exploring new tech. Always up for collaborations, interesting projects,  
-    and connecting with creative people.
-  </p>
-</div>
+> I build things that move in real time: buses on a map, faces on a call, slots on a booking sheet.
 
 <br>
 
-<div align="center">
-  <h3>🛠️ Tech Stack & Arsenal</h3>
+## ⚡ Things I've Shipped
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-  </p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,python" />
-  </p>
+**[🏟️ VIT Sports Facilities](https://github.com/shahabhilash/vit-bhopal-sports-facilities)**<br>
+<sub>Book a court, flash a QR, walk in.</sub><br>
+<sub>🏛️ <b>Officially adopted by VIT Bhopal</b> · used by <b>10,000+ students</b></sub><br>
+<sub>`Next.js` `Hono` `Supabase`</sub>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,mysql" />
-  </p>
-</div>
+</td>
+<td width="50%" valign="top">
 
-<br>
+**[🚌 MeriYatra](https://github.com/shahabhilash/MeriYatra)** · <sub>[live ↗](https://meri-yatra.vercel.app)</sub><br>
+<sub>Live GPS tracking for transit with no timetable.</sub><br>
+<sub>`React` `WebSockets` `OSRM`</sub>
 
-<div align="center">
-  <h3>📫 Connect With Me</h3>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-  <p>
-    <a href="mailto:abhilashshah2006@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-    <a href="https://linkedin.com/in/abhilash-shah-a46613369">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-    </a>
-    <a href="https://www.instagram.com/abhilash_._18?igsh=aWxzaXk1YTZkZWox">
-      <img src="https://skillicons.dev/icons?i=instagram" />
-    </a>
-  </p>
-</div>
+**[📹 Meetly](https://github.com/shahabhilash/meetly)**<br>
+<sub>Video calls with live transcripts.</sub><br>
+<sub>`WebRTC` `Socket.IO` `Node.js`</sub>
 
-<br>
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
-  <details>
-    <summary><b>👾 Click to see my Daily Routine</b></summary>
-    <br>
-    <h1>🤡</h1>
-  </details>
-</div>
+**[🔭 DevScope](https://github.com/shahabhilash/DevScope)**<br>
+<sub>Any GitHub profile, analysed by AI.</sub><br>
+<sub>`Next.js` `Gemini` `Recharts`</sub>
 
-<br>
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
+## 🧰 Toolbox
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shahabhilash&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&icon_color=0072ff&text_color=ffffff&border_color=0072ff&count_private=true" height="180" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhilash&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&border_color=0072ff&langs_count=8" height="180" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,tailwind,git&perline=10" />
 
-  <br><br>
+## 📊 Languages I Write
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahabhilash&theme=tokyonight&background=0d1117&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=ffffff&dates=ffffff&border=0072ff" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhilash&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=0072ff&text_color=c9d1d9&custom_title=Most%20Used%20Languages" height="160" />
 
 <br>
 
+<details>
+<summary><code>$ cat ~/daily_routine.log</code></summary>
+
+<br>
+
+```text
+[06:00]  wake up ......................... skipped
+[09:00]  productive morning .............. not found
+[14:00]  fix one bug ..................... created three
+[23:59]  "just one more commit" .......... 04:00 AM
+```
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0072ff,100:00c6ff&section=footer" width="100%"/>
+<h1>🤡</h1>
+<sub><i>process exited with status: clown</i></sub>
 </div>
+
+</details>
+
+## 📫 Reach Me
+
+[![Email](https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhilashshah2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhilash-shah-a46613369)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhilash_._18?igsh=aWxzaXk1YTZkZWox)
