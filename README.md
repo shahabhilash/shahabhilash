@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0072ff&height=140&text=Abhilash%20Shah&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Real-time%20Web%20Apps&descSize=16&descAlign=50&descAlignY=72" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=shahabhilash&color=0072ff&style=flat&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=shahabhilash&base=3000&color=0072ff&style=flat&label=PROFILE+VIEWS" />
 
 </div>
 
