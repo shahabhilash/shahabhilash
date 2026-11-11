@@ -10,7 +10,7 @@
 
 > I build things that move in real time: buses on a map, faces on a call, slots on a booking sheet.
 
-I'm a full-stack developer who likes turning everyday problems into products people actually use. My campus sports booking platform is now officially run by VIT Bhopal for over 10,000 students, and most of what I build lives in that space between a rough idea and a working, real-time system.
+I'm a full-stack developer who likes turning everyday problems into products people actually use.
 
 On the web side I work mostly with TypeScript, React, Next.js and Node, backed by PostgreSQL and Supabase. Away from the browser, I build games in Unity and Unreal with C# and C++, and design interfaces in Figma before writing a line of code.
 
