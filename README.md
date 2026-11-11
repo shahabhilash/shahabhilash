@@ -52,11 +52,16 @@
 
 ## 🧰 Toolbox
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,tailwind,git&perline=10" />
+**Web** &nbsp;
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,tailwind,git&perline=10" height="40" />
+
+**Game Dev & Design** &nbsp;
+<img src="https://skillicons.dev/icons?i=cpp,cs,unity,unreal,figma" height="40" />
 
 ## 📊 Languages I Write
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabhilash&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=0072ff&text_color=c9d1d9&custom_title=Most%20Used%20Languages" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahabhilash&theme=github_dark" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahabhilash&theme=github_dark" height="170" />
 
 <br>
 
