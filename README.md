@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0072ff&height=140&text=Abhilash%20Shah&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20Real-time%20Web%20Apps&descSize=16&descAlign=50&descAlignY=72" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0072ff&height=140&text=Abhilash%20Shah&fontSize=46&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Real-time%20Web%20Apps&descSize=16&descAlign=50&descAlignY=72" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=shahabhilash&base=3000&color=0072ff&style=flat&label=PROFILE+VIEWS" />
 
@@ -13,6 +13,8 @@
 I'm a full-stack developer who likes turning everyday problems into products people actually use.
 
 On the web side I work mostly with TypeScript, React, Next.js and Node, backed by PostgreSQL and Supabase. Away from the browser, I build games in Unity and Unreal with C# and C++, and design interfaces in Figma before writing a line of code.
+
+I'm also deep into **AI/ML**, mainly recommender systems and ranking. I build them in Python, from collaborative filtering (ALS, item-kNN, neural CF) to learning-to-rank with XGBoost, with honest offline evaluation and A/B testing to prove they actually help.
 
 Always open to collaborations, interesting problems and people building cool things.
 
@@ -54,11 +56,21 @@ Always open to collaborations, interesting problems and people building cool thi
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[🛒 CartSense](https://github.com/shahabhilash/cartsense)** · <sub>[live ↗](https://cartsense-rust.vercel.app)</sub><br>
+<sub>Explainable product recommendations that work even for guests, with a "Why this?" on every pick.</sub><br>
+<sub>🤖 Hybrid recommender + XGBoost ranker · <b>+39% NDCG@10</b> over the best single model · trained on <b>814K Amazon reviews</b></sub><br>
+<sub>`Python` `XGBoost` `FastAPI` `React` `A/B Testing`</sub>
+
+</td>
+</tr>
 </table>
 
 ## 🧰 Toolbox
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,tailwind,cpp,cs,unity,unreal,figma,git&perline=15" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,fastapi,postgres,supabase,tailwind,docker,cpp,cs,unity,unreal,figma,git&perline=18" />
 
 ## 📊 Languages I Write
 
